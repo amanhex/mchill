@@ -1,0 +1,17 @@
+attrs
+cffi
+cryptography
+libtorrent
+meson
+packaging
+ply
+pycparser
+TBB
+tqdm
+typing_extensions
+lxml
+requests
+bs4
+pandas
+numpy
+scikit-learn
